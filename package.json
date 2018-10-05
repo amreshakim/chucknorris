@@ -1,0 +1,24 @@
+{
+  "name": "chucknorris",
+  "version": "1.0.0",
+  "description": "Slackbot Chuck Norris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covalentio/chucknorris.git"
+  },
+  "author": "Isovalent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/covalentio/chucknorris/issues"
+  },
+  "homepage": "https://github.com/covalentio/chucknorris#readme",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "slackbots": "^1.1.0",
+    "sqlite3": "^4.0.2"
+  }
+}
